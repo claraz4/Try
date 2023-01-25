@@ -4,7 +4,5 @@ public class Face {
         System.out.println(" +\"\"\"\"\"+ ");
         System.out.println("[| o o |]");
         System.out.println(" |  ^  | ");
-	System.out.println(" | '-' | ");
-	System.out.println(" +-----+ ");
     }
 }
